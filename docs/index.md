@@ -1,3 +1,22 @@
+---
+---
+
+[WEB](https://cbkadal.github.io/os202/)
+[GitHub](https://github.com/cbkadal/os202/)
+
+<br>
+
+# My name is Jeremiah Garcia Tennes
+
+## [My Log](TXT/mylog.txt)
+<br>
+<hr>
+<br>
+## Operating Systems Weekly Top Ten List
+* [Week 00](W00/)
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jeremiahtennes/os202/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.

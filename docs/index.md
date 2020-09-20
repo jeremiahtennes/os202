@@ -1,9 +1,6 @@
 ---
 ---
 
-[WEB](https://cbkadal.github.io/os202/)
-[GitHub](https://github.com/cbkadal/os202/)
-
 <br>
 
 # My name is Jeremiah Garcia Tennes

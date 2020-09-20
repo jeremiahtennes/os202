@@ -5,7 +5,7 @@
 
 # My name is Jeremiah Garcia Tennes
 
-## [My Log](TXT/mylog.txt)
+## [My Log](docs/TXT/mylog.txt)
 <br>
 <hr>
 <br>

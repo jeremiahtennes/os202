@@ -1,0 +1,4 @@
+tstat
+cd git/os202/TXT
+gitstat
+vi mylog.txt

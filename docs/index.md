@@ -1,6 +1,6 @@
 # My name is Jeremiah Garcia Tennes
 
-## [My Log](https://raw.githubusercontent.com/jeremiahtennes/os202/master/TXT/mylog.txt)
+## [My Log](https://jeremiahtennes.github.io/os202/TXT/mylog.txt)
 <br>
 <hr>
 <br>
